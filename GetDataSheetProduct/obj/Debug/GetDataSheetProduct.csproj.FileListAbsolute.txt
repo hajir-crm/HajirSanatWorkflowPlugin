@@ -1,0 +1,13 @@
+C:\Users\m.hosseini\source\repos\Hajir Sanat Solution\GetDataSheetProduct\obj\Debug\GetDataSheetProduct.csproj.AssemblyReference.cache
+C:\Users\m.hosseini\source\repos\Hajir Sanat Solution\GetDataSheetProduct\obj\Debug\GetDataSheetProduct.csproj.CoreCompileInputs.cache
+C:\Users\m.hosseini\source\repos\Hajir Sanat Solution\GetDataSheetProduct\bin\Debug\GetDataSheetProduct.dll
+C:\Users\m.hosseini\source\repos\Hajir Sanat Solution\GetDataSheetProduct\bin\Debug\GetDataSheetProduct.pdb
+C:\Users\m.hosseini\source\repos\Hajir Sanat Solution\GetDataSheetProduct\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\m.hosseini\source\repos\Hajir Sanat Solution\GetDataSheetProduct\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\m.hosseini\source\repos\Hajir Sanat Solution\GetDataSheetProduct\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\m.hosseini\source\repos\Hajir Sanat Solution\GetDataSheetProduct\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\m.hosseini\source\repos\Hajir Sanat Solution\GetDataSheetProduct\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\m.hosseini\source\repos\Hajir Sanat Solution\GetDataSheetProduct\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\m.hosseini\source\repos\Hajir Sanat Solution\GetDataSheetProduct\obj\Debug\GetDataSheetProduct.csproj.CopyComplete
+C:\Users\m.hosseini\source\repos\Hajir Sanat Solution\GetDataSheetProduct\obj\Debug\GetDataSheetProduct.dll
+C:\Users\m.hosseini\source\repos\Hajir Sanat Solution\GetDataSheetProduct\obj\Debug\GetDataSheetProduct.pdb
